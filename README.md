@@ -1,5 +1,5 @@
 # Crystal Collector! (Repo - https://github.com/Carl-Lombardi/CrystalCollector) (Site - https://carl-lombardi.github.io/CrystalCollector/)
-This is a simple Crystal Collector game whereas the user chooses a colored crystal which has a predetemined random value. The goal of the game is to not go over the target goal. 
+This is a simple Crystal Collector game whereas the user chooses a colored crystal which has a predetermined random value. The goal of the game is to not go over the target number. 
 
 ## This site uses Javascript and JQuery 
 The basic build of the site was HTML/Bootstrap with the use of Javascript to write the code of the game and the use of JQuery to manipulate the HTML. 
